@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name":"Brian Weir",
+    "occupation":"Web Developer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as a way of describing myself and saying what I do, what technologies I like to use or feel most comfortable with, describing my personality, or whatever else I feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "bweir27@gmail.com",
+    "address":{
+      "city":"Denver",
+      "state":"Colorado",
+      "zip": "80210"
+    },
+    "website": "#",
+    "resumedownload":"BrianWeir_Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/brian-weir-b76777171/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/bweir27",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Denver",
+        "program": "Ritchie School of Engineering and Computer Science",
+        "major": "Computer Science Major",
+        "minor": "Math Minor",
+        "degree":"Computer Science Major, Math Minor",
+        "graduated":"Expected Graduation: June 2022",
+        "awards": "Crimson & Gold Scholar; Dean's List Student (Spring 2019 - Winter 2020); Hornbeck Scholar (Fall 2019)",
+        "gpa": " Cumulative GPA: 3.84; Major GPA: 3.96",
+        "relCourses": "Relevant courses: Discrete Structures in Computer Science; Intro. to Algorithms & Data Structures; Web Programming I & II; Web Development Projects; Intro. to Systems Programming; Computer Organization",
+        "description":"It was at DU that I discovered my passion for Web Development. Through my Web courses, I became absolutely fascinated by Web Development as a creative outlet - when you can build any kind of website you want, what do you choose to make? Besides Web Development, I have also stayed involved on campus by holding positions on DU's Programming Board (DUPB) and our InterFraternity Council's Executive Board - learn more about those below. In addition to my coursework and campus involvement, I am also proud to say that I have made the Dean's List for the Spring 2019, Fall 2019, and Winter 2020 quarters for earning a 3.75+ GPA while taking at least 15 credit hours; and awarded Hornbeck Honors for earning a 4.0 GPA while taking 15+ credit hours in the Fall 2019 quarter."
+      }
+    ],
+    "experience":[
+      {
+        "company":"University of Denver Programming Board (DUPB)",
+        "location": "University of Denver",
+        "title":"Traditions Committee Member",
+        "years":"Sept. 2018 - June 2019",
+        "bullets": [
+          "Conceptualized and coordinated community-wide events to promote student engagement",
+          "Authored and Negotiated service contracts with third-party companies to establish bilateral assurance",
+          "Communicated between the Traditions Committee and third-party companies to ensure mutual understanding of event locations and timetables"
+        ],
+        "description":"As a member of DUPB's 15-person Traditions Committee, I worked to conceptualize, market, and manage some of the largest recurring community-wide events DU has to offer. Along with Homecoming, my committee was responsible for our yearly 'Winter Carnival' and 'May Days' events. Winter Carnival is week-long and consists of large-scale on-campus events each weekday that 'concludes' on Friday with DUPB providing round-trip transportation for upwards of 1600 students to the nearby Keystone Ski Resort where discounted lift tickets/housing and daily on-mountain events await. During the process of planning these sets of high-budget events, I was responsible for drafting, negotiating, and finalizing service contracts with multiple third-party vendors to ensure everything went as smoothly as possible."
+      },
+      {
+        "company":"3 Brothers Odd Jobs",
+        "location": "Sewickley, PA",
+        "title":"Project Manager",
+        "years":"Jan. 2016 - Aug. 2018",
+        "bullets": [
+          "Acquired and retained new clientele through networking and marketing to grow locally owned business into a well-known enterprise within community",
+          "Trained and oversaw new local workforce members to insure consistently high-quality service on work assignments.",
+          "Organized and distributed payroll to employee network weekly in a transparent and fair manner."
+        ],
+        "description":"When I first joined 3 Brothers Odd Jobs, it was a small LLC that mainly did yard work for the residents of my neighborhood. During my time there, I trained and oversaw new local workforce members to insure consistently high-quality service on projects and grew the company to become a well-known throughout my area. As well as being a Project Manager, I also organized and distributed payroll to our employee network weekly in a transparent and fair manner."
+      }
+    ],
+    "leadership":[
+      {
+        "activity":"InferFraternity Council (IFC) Executive Board",
+        "location": "University of Denver",
+        "title":"Director of Recruitment",
+        "years":"Feb. 2020 - Present",
+        "description":"As the IFC Director of Recruitment, I am responsible for planning, promoting, and administering Fall and Spring rounds of recruitment for all recognized fraternities at DU. I am the primary point of contact for each fraternity's VP of Recruitment, as well as chapter advisers, school administrators, and all students considering and/or participating in fraternity recruitment. When COVID-19 closed DU's campus in the Spring of 2020, I quickly adapted the recruitment format to accommodate to each chapter's and potential new member's needs."
+      },
+      {
+        "activity":"House Council",
+        "location": "Sewickley Academy, Sewickley, PA",
+        "title":"Council Member",
+        "years":"2016 - 2018",
+        "description":"In 2016, Sewickley Academy's high school shifted their student-run governing body from a Student Council structure to a House Council structure. What's the difference? In a House Council, every student - regardless of grade - was a member of a particular 'House' (yes, like in Harry Potter) and elected four students to represent their House. The House system was implemented in an effort to make our high school more 'vertically integrated' such that student friend groups weren't as solely-reliant on what grade they were in (dubbed 'horizontal integration'), but could also be influenced what House they were a member of. The House Council was responsible for collaborating with fellow students, school administrators, and third-party organizations to design and oversee events and competitions in order to uphold school and House spirit alike. It was an honor to be elected by my classmates to represent them and entrusted help to set the foundation for this new system, then to be re-elected the following year to uphold the precedent that had been set."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Wooglin",
+        "desc": "The UI I built for a newly-developed Risk Management bot used by my fraternity",
+        "image":"placehold-300x200.png",
+        "gitUrl": "#",
+        "url":"#"
+      },
+      {
+        "title":"SocketPainter",
+        "desc": "A Java program that allows multiple users to draw and chat in a shared workspace using Sockets",
+        "image":"placehold-300x200.png",
+        "gitUrl": "#",
+        "url":"#"
+      },
+      {
+        "title":"Tetris",
+        "desc": "Feeling nostalgic yet?",
+        "image":"placehold-300x200.png",
+        "gitUrl": "#",
+        "url":"#"
+      },
+      {
+        "title":"Snake",
+        "desc": "This project was built in the process of my teaching myself to build an AI",
+        "image":"placehold-300x200.png",
+        "gitUrl": "#",
+        "url":"#"
+      },
+      {
+        "title":"ShopWide",
+        "desc": "A Chrome Extension I made for keeping your online shopping carts and wish-lists all in one place",
+        "image":"placehold-300x200.png",
+        "gitUrl": "#",
+        "url":"#"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Hey would you be able to write a testimonial for me that I can use on my portfolio website?",
+        "user":"*Read at 2:21pm*"
+      }
+    ]
+  }
+}
