@@ -128,7 +128,7 @@
       },
       {
         "title":"SocketPainter",
-        "desc": "A Java program that allows multiple users to draw and chat in a shared workspace using Sockets",
+        "desc": "(offline) A Java program that allows multiple users to draw and chat in a shared workspace using Sockets",
         "image":"placehold-300x200.png",
         "gitUrl": "#",
         "url":"#"
@@ -156,7 +156,7 @@
       },
       {
         "title":"HistoryDoesYou",
-        "desc": "A website I built for a podcast",
+        "desc": "A website I built for a podcast that discusses various historical events with guests including best-selling authors and Pulitzer Prize recipients",
         "image":"placehold-300x200.png",
         "gitUrl": "#",
         "url":"#"
