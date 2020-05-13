@@ -15,7 +15,7 @@ class Portfolio extends Component {
             <Card className="item-wrap">
                 <Card.Img  variant="top" src={projectImage || "placehold-300x200"}/>
                 <Card.Body>
-                    <Card.Title>{projects.title}</Card.Title>
+                    <Card.Title><h5>{projects.title}</h5></Card.Title>
                     <Card.Text>
                         {projects.desc || "Placeholder"}
                     </Card.Text>

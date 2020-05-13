@@ -2,11 +2,12 @@
   "main": {
     "name":"Brian Weir",
     "occupation":"Web Developer",
-    "description":"Here will be my description. Use this to describe what I do or whatever I feel best describes myself to a potential employer",
+    "description":"with experience in full stack software engineering",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as a way of describing myself and saying what I do, what technologies I like to use or feel most comfortable with, describing my personality, or whatever else I feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for leadership, and a passion for coding. Currently working with the Health Equity Community Exchange to build and launch their website, I have an eye for design and the skills to make your ideas come to life.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, reach out to me via email or by filling out the form below if you'd like to get in contact with me.",
     "email": "bweir27@gmail.com",
+    "phone": "(412) 651-0602",
     "address":{
       "city":"Denver",
       "state":"Colorado",
