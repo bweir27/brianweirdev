@@ -72,7 +72,7 @@
     ],
     "leadership":[
       {
-        "activity":"InferFraternity Council (IFC) Executive Board",
+        "activity":"InterFraternity Council (IFC) Executive Board",
         "location": "University of Denver",
         "title":"Director of Recruitment",
         "years":"Feb. 2020 - Present",
@@ -122,44 +122,61 @@
       {
         "title":"Wooglin",
         "desc": "The UI I built for a newly-developed Risk Management bot used by my fraternity",
-        "image":"placehold-300x200.png",
+        "image":"Wooglin_Project_Image.png",
         "gitUrl": "#",
-        "url":"#"
+        "url":"#",
+        "github": "https://github.com/bweir27",
+        "social": [
+          "github", "https://github.com/bweir27","fa fa-github",
+          "github","https://github.com/bweir27", "fa fa-github"]
+      },
+      {
+        "title":"Health Equity Community Exchange",
+        "desc": "The final product of a group project for which I was on the UI-team",
+        "image":"HealthEqImg2.png",
+        "gitUrl": "#",
+        "url":"#",
+        "social": ["github","https://github.com/bweir27","fa fa-github","github","https://github.com/bweir27", "fa fa-github"]
       },
       {
         "title":"SocketPainter",
         "desc": "(offline) A Java program that allows multiple users to draw and chat in a shared workspace using Sockets",
         "image":"placehold-300x200.png",
         "gitUrl": "#",
-        "url":"#"
+        "url":"#",
+        "social": ["github","https://github.com/bweir27","fa fa-github","github","https://github.com/bweir27", "fa fa-github"]
       },
       {
         "title":"Tetris",
         "desc": "Feeling nostalgic yet?",
         "image":"placehold-300x200.png",
         "gitUrl": "#",
-        "url":"#"
+        "url":"#",
+        "social": ["github","https://github.com/bweir27","fa fa-github","github","https://github.com/bweir27", "fa fa-github"]
       },
       {
         "title":"Snake",
         "desc": "This project was built in the process of my teaching myself to build an AI",
         "image":"placehold-300x200.png",
         "gitUrl": "#",
-        "url":"#"
+        "url":"#",
+        "social": ["github","https://github.com/bweir27","fa fa-github","github","https://github.com/bweir27", "fa fa-github"]
       },
       {
         "title":"ShopWide",
         "desc": "A Chrome Extension I made for keeping your online shopping carts and wish-lists all in one place",
         "image":"placehold-300x200.png",
         "gitUrl": "#",
-        "url":"#"
+        "url":"#",
+        "social": ["github","https://github.com/bweir27","fa fa-github","github","https://github.com/bweir27", "fa fa-github"]
       },
       {
         "title":"HistoryDoesYou",
         "desc": "A website I built for a podcast that discusses various historical events with guests including best-selling authors and Pulitzer Prize recipients",
         "image":"placehold-300x200.png",
         "gitUrl": "#",
-        "url":"#"
+        "url":"#",
+        "social": ["github","https://github.com/bweir27","fa fa-github","github","https://github.com/bweir27", "fa fa-github"]
       }
     ]
   },
